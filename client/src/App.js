@@ -1,11 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import Login from './features/login/Login';
 
 function App() {
   return (
-    <div>
-        <p>Initial commit :)</p>
-    </div>
+    <Login/>
   );
 }
 
